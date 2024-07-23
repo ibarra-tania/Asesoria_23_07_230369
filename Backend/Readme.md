@@ -14,6 +14,6 @@ Integradora-Proyecto/<br>
 ## Equipo de Desarrollo
 | Responsable | Puesto | Contacto | Observaciones |
 |-------------|--------|----------|---------------|
-|Uriel Abdallah Medina Torres |[@UrielMedina0302](https://github.com/UrielMedina0302)|Lider de desarrollo Backend|✖ No ha revisado|
-|Tania Ibarra|[@ibarra-tania](https://github.com/ibarra-tania)|Lider de documentación|❌ No ha revisado |
+|Uriel Abdallah Medina Torres |[@UrielMedina0302](https://github.com/UrielMedina0302)|Lider de desarrollo Backend|✔ Revisado y aprobado|
+|Tania Ibarra|[@ibarra-tania](https://github.com/ibarra-tania)|Lider de documentación|✔ Revisado y aprobado|
 |Zyanya Zacatenco|[@ZyanZac](https://github.com/ZyanZac)|Líder de FrontEnd|❌ No ha revisado|
